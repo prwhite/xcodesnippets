@@ -1,4 +1,4 @@
-// Comment Bar
+// PRW-Comment Bar
 // 
 //
 // IDECodeSnippetCompletionPrefix: cbar
