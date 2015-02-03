@@ -1,6 +1,7 @@
 // Dispatch Async Main Queue
 // 
 //
+// IDECodeSnippetCompletionPrefix: damq
 // IDECodeSnippetCompletionScopes: [All]
 // IDECodeSnippetIdentifier: E7B01EAA-C8D9-434C-9907-536E300326CE
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Generic
