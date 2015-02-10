@@ -2,7 +2,7 @@
 // 
 //
 // IDECodeSnippetCompletionPrefix: dasq
-// IDECodeSnippetCompletionScopes: [CodeBlock]
+// IDECodeSnippetCompletionScopes: [All]
 // IDECodeSnippetIdentifier: 81428F65-8AB3-4987-BFCC-DFBFF3A9F905
 // IDECodeSnippetLanguage: Xcode.SourceCodeLanguage.Objective-C-Plus-Plus
 // IDECodeSnippetUserSnippet: 1
